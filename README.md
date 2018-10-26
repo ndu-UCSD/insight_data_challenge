@@ -1,4 +1,3 @@
-# insight_data_challenge
 # Table of Contents
 1. [Problem](README.md#Problem)
 2. [Approach](README.md#approach)
